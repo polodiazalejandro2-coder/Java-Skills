@@ -1,6 +1,0 @@
-com\apd\login\controller\WelcomeController.class
-module-info.class
-com\apd\login\controller\LoginController.class
-com\apd\login\view\App.class
-com\apd\login\model\UserDataValidations.class
-com\apd\login\view\Launcher.class
